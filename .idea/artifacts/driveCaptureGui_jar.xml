@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="driveCaptureGui:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/driveCaptureGui_jar</output-path>
+    <root id="archive" name="driveCaptureGui.jar">
+      <element id="module-output" name="driveCaptureGui" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/selenium-server-4.8.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
